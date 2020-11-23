@@ -4,12 +4,14 @@ This will be the prototype or at least the initial idea of ​​how the applica
 
  In this documentation I will try to explain both the functionality of each of the windows, for this I will start by explaining the menu.
 
+
 ## 1.1 MENU
 
 The menu in this prototype is activated by clicking on the next marked area, once ejected the entire window is minimized, or at least its scale, to be able to see the menu in all its splendor, in this we can find a button that takes us home.
 
 <img src="img/Screenshot_1.png" alt="Imagen1" width="200px" height="400px" />
 <img src="img/Screenshot_2.png" alt="Imagen2" width="200px" height="400px" />
+
 
 ## 1.2 WINDOWS
 
@@ -36,8 +38,8 @@ Among the windows that our interface is divided into, we can find the following:
 ![Imagen3](img/Screenshot_10.png)
 
 
-## 1.3 Usability
 
+## 1.3 Usability
 
 When we design multiplatform applications, the interface that we propose will be essential for the user to feel comfortable working with it. Bad design can cause customers to leave our application.
 
