@@ -8,3 +8,4 @@ This will be the prototype or at least the initial idea of ​​how the applica
 
 The menu in this prototype is activated by clicking on the next marked area, once ejected the entire window is minimized, or at least its scale, to be able to see the menu in all its splendor, in this we can find a button that takes us home .
 ![Imagen1](img/Screenshot_1.png)
+![Imagen1](img/Screenshot_2.png)
