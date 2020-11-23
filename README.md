@@ -19,7 +19,7 @@ Among the windows that our interface is divided into, we can find the following:
 
 * **Login or registration form:** In this window you will have to register, or in case you already have an account, simply enter your identifying information and enter.
 
-<img src="img/Screenshot_4.png" alt="Imagen4" width="200px" height="400px" />
+<img src="img/Screenshot_4.png" alt="Imagen4" width="400px" height="400px" />
 
 * **Filter Window:** In this window you must put the filter data of the search, such as the departure and arrival date and the place.
 
