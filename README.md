@@ -9,7 +9,7 @@ This will be the prototype or at least the initial idea of ​​how the applica
 2. [Windows](#windows)
 3. [Usability](#usability)
 
-## MENU
+### MENU
 
 The menu in this prototype is activated by clicking on the next marked area, once ejected the entire window is minimized, or at least its scale, to be able to see the menu in all its splendor, in this we can find a button that takes us home.
 
@@ -17,7 +17,7 @@ The menu in this prototype is activated by clicking on the next marked area, onc
 <img src="img/Screenshot_2.png" alt="Imagen2" width="200px" height="400px" />
 
 
-## WINDOWS
+### WINDOWS
 
 Among the windows that our interface is divided into, we can find the following:
 * **Start Window:** In this window we can find a simple starting window of any application, when clicking on the button, you would give way to the form window.
@@ -43,7 +43,7 @@ Among the windows that our interface is divided into, we can find the following:
 
 
 
-## Usability
+### Usability
 
 When we design multiplatform applications, the interface that we propose will be essential for the user to feel comfortable working with it. Bad design can cause customers to leave our application.
 
