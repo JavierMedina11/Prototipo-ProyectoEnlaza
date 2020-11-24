@@ -3,9 +3,13 @@
 This will be the prototype or at least the initial idea of ​​how the application should be, once developed.
 
  In this documentation I will try to explain both the functionality of each of the windows, for this I will start by explaining the menu.
+ 
+ ## Table of Contents
+1. [Menu](#menu)
+2. [Windows](#windows)
+3. [Usability](#usability)
 
-
-## 1.1 MENU
+## MENU
 
 The menu in this prototype is activated by clicking on the next marked area, once ejected the entire window is minimized, or at least its scale, to be able to see the menu in all its splendor, in this we can find a button that takes us home.
 
@@ -13,7 +17,7 @@ The menu in this prototype is activated by clicking on the next marked area, onc
 <img src="img/Screenshot_2.png" alt="Imagen2" width="200px" height="400px" />
 
 
-## 1.2 WINDOWS
+## WINDOWS
 
 Among the windows that our interface is divided into, we can find the following:
 * **Start Window:** In this window we can find a simple starting window of any application, when clicking on the button, you would give way to the form window.
@@ -39,7 +43,7 @@ Among the windows that our interface is divided into, we can find the following:
 
 
 
-## 1.3 Usability
+## Usability
 
 When we design multiplatform applications, the interface that we propose will be essential for the user to feel comfortable working with it. Bad design can cause customers to leave our application.
 
