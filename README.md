@@ -11,35 +11,42 @@ This will be the prototype or at least the initial idea of ​​how the applica
 
 ### MENU
 
-The menu in this prototype is activated by clicking on the next marked area, once ejected the entire window is minimized, or at least its scale, to be able to see the menu in all its splendor, in this we can find a button that takes us home.
-
-<img src="img/Screenshot_1.png" alt="Imagen1" width="200px" height="400px" />
-<img src="img/Screenshot_2.png" alt="Imagen2" width="200px" height="400px" />
-
+En este caso hago uso de la vuelta atras que te proporciona de por si el sistema operativo de Android.
 
 ### WINDOWS
 
 Among the windows that our interface is divided into, we can find the following:
 * **Start Window:** In this window we can find a simple starting window of any application, when clicking on the button, you would give way to the form window.
 
-<img src="img/Screenshot_3.png" alt="Imagen3" width="200px" height="400px" />
+<img src="img/home.png" alt="Imagen3" width="200px" height="400px" />
 
 * **Login or registration form:** In this window you will have to register, or in case you already have an account, simply enter your identifying information and enter.
 
-<img src="img/Screenshot_4.png" alt="Imagen4" width="400px" height="400px" />
-
-* **Filter Window:** In this window you must put the filter data of the search, such as the departure and arrival date and the place.
-
-<img src="img/Screenshot_5.png" alt="Imagen5" width="200px" height="400px" />
+<img src="img/login.png" alt="Imagen4" width="250px" height="400px" />
+<img src="img/register.png" alt="Imagen4" width="250px" height="400px" />
 
 * **Discover window:** In this window you must select between the different destinations to select.
 
-<img src="img/Screenshot_7.png" alt="Imagen7" width="200px" height="400px" />
+<img src="img/main.png" alt="Imagen7" width="200px" height="400px" />
 
-* **Room Window:** In this window will be where you can see all the information about the room itself, data, such as a brief description, its location or a Review of other users. And if you click on the button at the end, you will go to the payment gateway.
+* **User Window:** En esta ventana el usuario podra hacer uso de la capacidad de actualizar y eliminar sus reservas, ademas de poder modificar su foto de usuario, actualizar sus datos o darse de baja de la aplicacion.
 
-![Imagen3](img/Screenshot_9.png)
-![Imagen3](img/Screenshot_10.png)
+<img src="img/userProfile.png" alt="Imagen5" width="200px" height="400px" />
+
+* **Update User Window:** Podra actualizar los datos de su perfil.
+
+<img src="img/UpdateUser.png" alt="Imagen5" width="200px" height="400px" />
+
+* **Room Window:** In this window will be where you can see all the information about the room itself, data, such as a brief description, and realize a reservation And if you click on the button at the end, you will go to the payment gateway.
+
+<img src="img/detail.png" alt="Imagen5" width="200px" height="400px" />
+
+* **Reserve Window:** En esta ventana el usuario podra hacer la reserva de la habitacion para unas fechas especificas ademas de seleccionar el tipo de dieta
+
+<img src="img/reserve.png" alt="Imagen5" width="200px" height="400px" />
+
+* **Update Reserve Window:** Podra actualizar la reserva de la ventana anteriormente mencionada.
+<img src="img/updateReserve.png" alt="Imagen5" width="200px" height="400px" />
 
 
 
