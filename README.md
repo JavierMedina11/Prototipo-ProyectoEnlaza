@@ -43,7 +43,7 @@ Among the windows that our interface is divided into, we can find the following:
 
 * **Reserve Window:** En esta ventana el usuario podra hacer la reserva de la habitacion para unas fechas especificas ademas de seleccionar el tipo de dieta
 
-<img src="img/reserve.png" alt="Imagen5" width="200px" height="400px" />
+<img src="img/Reserve.png" alt="Imagen5" width="200px" height="400px" />
 
 * **Update Reserve Window:** Podra actualizar la reserva de la ventana anteriormente mencionada.
 <img src="img/updateReserve.png" alt="Imagen5" width="200px" height="400px" />
